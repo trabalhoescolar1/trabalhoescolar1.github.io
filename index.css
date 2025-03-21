@@ -54,7 +54,7 @@ footer {
     font-size: 0.9rem;
     color: #6c757d
 }
-.img-personalizada {
+  img-personalizada {
     width: 100%;
     max-width: 1100px;
     height: auto;  
@@ -127,3 +127,4 @@ footer {
 .menu.active .menu-options {
   display: block;
 }
+
