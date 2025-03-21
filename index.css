@@ -61,6 +61,13 @@ footer {
     display: block;  
     margin: 20px auto;  
 }
+img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;  
+    display: block;  
+    margin: 20px auto;  
+}
 .menu {
   position: relative;
   display: inline-block;
@@ -126,5 +133,16 @@ footer {
 
 .menu.active .menu-options {
   display: block;
+}
+text center {
+    font-family: "Arial", san-serif; 
+    font-size: 18px; 
+    font-weight: bold;
+    color: #333; 
+    background-color: #f4f4f4;
+    padding: 10px; 
+    border-left: 4px solid #000;
+    text-align: justify; 
+    line-height: 1.7; 
 }
 
